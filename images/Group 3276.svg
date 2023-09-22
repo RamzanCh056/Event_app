@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="312" height="416" viewBox="0 0 312 416">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="58" height="104" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_3276" data-name="Group 3276" transform="translate(7055 -13164)">
+    <circle id="Ellipse_343" data-name="Ellipse 343" cx="52" cy="52" r="52" transform="translate(-7055 13164)" fill="#ec5135"/>
+    <circle id="Ellipse_348" data-name="Ellipse 348" cx="52" cy="52" r="52" transform="translate(-6847 13476)" fill="#a4bcfa"/>
+    <circle id="Ellipse_349" data-name="Ellipse 349" cx="52" cy="52" r="52" transform="translate(-7055 13475)" fill="#fc0"/>
+    <ellipse id="Ellipse_347" data-name="Ellipse 347" cx="52" cy="51.5" rx="52" ry="51.5" transform="translate(-7055 13372)" fill="#7896cc"/>
+    <g id="Repeat_Grid_34" data-name="Repeat Grid 34" transform="translate(-6847 13164)" clip-path="url(#clip-path)">
+      <g transform="translate(6847 -13164)">
+        <circle id="Ellipse_345" data-name="Ellipse 345" cx="52" cy="52" r="52" transform="translate(-6847 13164)" fill="#ec5135"/>
+      </g>
+    </g>
+    <circle id="Ellipse_344" data-name="Ellipse 344" cx="52" cy="52" r="52" transform="translate(-6951 13268)" fill="#bfcc36"/>
+    <circle id="Ellipse_346" data-name="Ellipse 346" cx="52" cy="52" r="52" transform="translate(-6847 13372)" fill="#609633"/>
+    <rect id="Rectangle_950" data-name="Rectangle 950" width="104" height="104" transform="translate(-7055 13268)" fill="#47507c"/>
+    <rect id="Rectangle_955" data-name="Rectangle 955" width="104" height="104" transform="translate(-6951 13475)" fill="#7ccac7"/>
+    <rect id="Rectangle_954" data-name="Rectangle 954" width="156" height="103" transform="translate(-7003 13372)" fill="#7896cc"/>
+    <rect id="Rectangle_951" data-name="Rectangle 951" width="104" height="156" transform="translate(-6951 13164)" fill="#bfcc36"/>
+    <rect id="Rectangle_953" data-name="Rectangle 953" width="52" height="104" transform="translate(-6795 13164)" fill="#ec5135"/>
+    <rect id="Rectangle_952" data-name="Rectangle 952" width="104" height="156" transform="translate(-6847 13268)" fill="#609633"/>
+  </g>
+</svg>

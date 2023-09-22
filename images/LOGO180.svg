@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180" height="180" viewBox="0 0 180 180">
+  <defs>
+    <clipPath id="clip-path">
+      <rect y="71" width="142" height="71" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect y="58" width="120" height="62" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_3278" data-name="Group 3278" transform="translate(9582 -18975)">
+    <rect id="Rectangle_1165" data-name="Rectangle 1165" width="180" height="180" transform="translate(-9582 18975)" fill="#2f344d"/>
+    <g id="Group_3277" data-name="Group 3277">
+      <g id="Scroll_Group_3" data-name="Scroll Group 3" transform="translate(-9561 19008)" clip-path="url(#clip-path)" style="isolation: isolate">
+        <circle id="Ellipse_396" data-name="Ellipse 396" cx="71" cy="71" r="71" fill="#609633"/>
+      </g>
+      <g id="Scroll_Group_4" data-name="Scroll Group 4" transform="translate(-9550 19021)" clip-path="url(#clip-path-2)" style="isolation: isolate">
+        <circle id="Ellipse_400" data-name="Ellipse 400" cx="60" cy="60" r="60" fill="#bfcc36"/>
+      </g>
+    </g>
+    <circle id="Ellipse_398" data-name="Ellipse 398" cx="28.5" cy="28.5" r="28.5" transform="translate(-9468 18990)" fill="#bfcc36"/>
+    <circle id="Ellipse_404" data-name="Ellipse 404" cx="37" cy="37" r="37" transform="translate(-9580 18983)" fill="#bfcc36"/>
+    <circle id="Ellipse_399" data-name="Ellipse 399" cx="22.5" cy="22.5" r="22.5" transform="translate(-9462 18996)" fill="#ec5135"/>
+    <circle id="Ellipse_403" data-name="Ellipse 403" cx="29" cy="29" r="29" transform="translate(-9572 18991)" fill="#ec5135"/>
+    <rect id="Rectangle_1166" data-name="Rectangle 1166" width="19" height="89" transform="translate(-9501 18975)" fill="#47507c"/>
+    <rect id="Rectangle_1167" data-name="Rectangle 1167" width="19" height="55" rx="7" transform="translate(-9501 19074) rotate(-90)" fill="#47507c"/>
+  </g>
+</svg>
